@@ -1,88 +1,251 @@
-## 🌐 Welcome to DigitalPlat Domain
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8">
 
-<div align="center">
-  <img src="opensource/static/img/logo.jpg" alt="logo" width="240">
+<!-- মোবাইলে Zoom বন্ধ -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+<title>EMRAN HOSSAIN | Official Website</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial,sans-serif;
+}
+
+html,body{
+    width:100%;
+    overflow-x:hidden;
+    touch-action:manipulation;
+    background:#0d1117;
+    color:#fff;
+}
+
+header{
+    background:linear-gradient(135deg,#001f3f,#00c6ff);
+    text-align:center;
+    padding:50px 15px;
+}
+
+.profile{
+    width:160px;
+    height:160px;
+    border-radius:50%;
+    border:4px solid #fff;
+    object-fit:cover;
+    box-shadow:0 0 20px cyan;
+}
+
+h1{
+    margin-top:15px;
+    font-size:32px;
+}
+
+.tagline{
+    margin-top:10px;
+    font-size:16px;
+}
+
+.container{
+    width:95%;
+    max-width:1000px;
+    margin:auto;
+    padding:20px 0;
+}
+
+.card{
+    background:#161b22;
+    padding:20px;
+    border-radius:15px;
+    margin-bottom:15px;
+    box-shadow:0 0 12px rgba(0,255,255,.15);
+}
+
+.card h2{
+    color:#00e5ff;
+    margin-bottom:12px;
+}
+
+.card p,
+.card li{
+    line-height:1.8;
+}
+
+ul{
+    padding-left:20px;
+}
+
+.btn{
+    display:block;
+    width:100%;
+    text-align:center;
+    padding:14px;
+    margin:8px 0;
+    border-radius:10px;
+    text-decoration:none;
+    font-weight:bold;
+    color:white;
+}
+
+.fb{
+    background:#1877F2;
+}
+
+.group{
+    background:#0057d8;
+}
+
+.tg{
+    background:#229ED9;
+}
+
+.tk{
+    background:#000;
+    border:1px solid #fff;
+}
+
+.wp{
+    background:#25D366;
+}
+
+.imo{
+    background:#0088FF;
+}
+
+.call{
+    background:#ff9800;
+}
+
+footer{
+    background:#000;
+    text-align:center;
+    padding:20px;
+    margin-top:20px;
+}
+
+@media(max-width:600px){
+
+.profile{
+    width:140px;
+    height:140px;
+}
+
+h1{
+    font-size:26px;
+}
+
+.tagline{
+    font-size:14px;
+}
+
+.card{
+    padding:15px;
+}
+
+}
+</style>
+</head>
+
+<body>
+
+<header>
+
+<img src="https://i.postimg.cc/x13Zbv46/file-000000007a0c720ba8295fc26775f86f.png" class="profile">
+
+<h1>EMRAN HOSSAIN</h1>
+
+<p class="tagline">
+🛡️ Cyber Expert | Social Media Support | Founder Of Mymensingh Cyber Zone
+</p>
+
+</header>
+
+<div class="container">
+
+<div class="card">
+<h2>👤 আমার পরিচয়</h2>
+
+<p>
+আসসালামু আলাইকুম।
+আমি ইমরান হোসাইন।
+Mymensingh Cyber Zone (MCZ)-এর প্রতিষ্ঠাতা।
+Facebook Support, Social Media Marketing, Meta Guidance,
+Page Monetization Support এবং Cyber Awareness নিয়ে কাজ করি।
+</p>
+
 </div>
 
-Welcome to **DigitalPlat FreeDomain**, where we believe everyone deserves a digital identity. Whether you're an individual, or an organization, we’re offering free domain names to bring your ideas to life – no strings attached!
+<div class="card">
+<h2>🛡️ আমাদের সেবাসমূহ</h2>
 
-With FreeDomain, you’re free to register a unique domain and host it with your favorite DNS provider, like Cloudflare, FreeDNS by Afraid.org, or Hostry. Get online with complete freedom, and keep your wallet happy.
+<ul>
+<li>Facebook Account Support</li>
+<li>Page Monetization Guidance</li>
+<li>Meta Verification Guidance</li>
+<li>Page Quality Support</li>
+<li>Social Media Marketing</li>
+<li>Digital Promotion</li>
+<li>Cyber Awareness Service</li>
+</ul>
 
-### ✔️ Why Free Domains?
+</div>
 
-At **DigitalPlat FreeDomain**, we’re on a mission to make the web more accessible. We believe that the cost of a domain shouldn’t hold anyone back from creating a website. Our goal is to make the internet an open space where everyone can have their own place online, regardless of budget.
+<div class="card">
 
-> DigitalPlat FreeDomain is independently designed and maintained by [**Edward Hsing**](https://github.com/EdwardLab), founder of the DigitalPlat Foundation.
+<h2>🌐 আমার সোশ্যাল লিংক</h2>
 
----
+<a href="https://www.facebook.com/share/1CPDhSePd2/" target="_blank" class="btn fb">
+🔵 Facebook Profile
+</a>
 
-### 🌍 Available Domain Extensions
+<a href="https://facebook.com/groups/1060397845110013/" target="_blank" class="btn group">
+👥 Facebook Group
+</a>
 
-- **.DPDNS.ORG**
-- **.US.KG**
-- **.QZZ.IO**
-- **.XX.KG**
-- **.QD.JE**
+<a href="https://t.me/meemran" target="_blank" class="btn tg">
+✈️ Telegram
+</a>
 
-_(More extensions coming soon!)_
+<a href="https://www.tiktok.com/@emrans.com" target="_blank" class="btn tk">
+🎵 TikTok
+</a>
 
----
+<a href="https://wa.me/8801320512829" target="_blank" class="btn wp">
+💬 WhatsApp
+</a>
 
-### 🌍 Ready to Claim Your Free Domain?
+<a href="https://imo.im/" target="_blank" class="btn imo">
+📞 IMO
+</a>
 
-Jump in and register your domain by visiting our site:
+</div>
 
-➡️ [DigitalPlat FreeDomain Dashboard](https://dash.domain.digitalplat.org/)
+<div class="card">
 
-📝 [Read our tutorial](./documents/tutorial/index.md)
+<h2>📞 যোগাযোগ</h2>
 
----
+<p>📱 মোবাইল: 01320512829</p>
 
-### 🌟 Trusted by Thousands
+<p>💬 WhatsApp: 01320512829</p>
 
-With over 500,000 domains already registered, DigitalPlat FreeDomain is a trusted choice for individuals and organizations alike. Join our growing community and claim your own free domain today!
+<p>📞 IMO: 01320512829</p>
 
----
+<br>
 
-### ❔ FAQ
+<a href="tel:01320512829" class="btn call">
+📞 Call Now
+</a>
 
-Check [FAQ Page](./documents/domains/faq.md)
+</div>
 
----
+</div>
 
-### 🤝 Join Our Community!
+<footer>
+© 2024) EMRAN HOSSAIN | Mymensingh Cyber Zone (MCZ)
+</footer>
 
-🆕 Join our official [DigitalPlat FreeDomain Discord server](https://discord.gg/ma4RZzMmVW) today!
- Be the first to know about the latest updates, get support, and connect with the community.
- Got questions? Facing challenges? Or just want to share what you're building?
- Come hang out with us 🚀
-
-⚠️ **Security Notice**
-Our previous Telegram account and group were compromised and are no longer under our control.
-Please **do not trust any messages, links, or announcements** from Telegram, especially anything related to bonuses, earnings, or external sites.
-We are no longer using Telegram as an official communication channel.
-
----
-
-### ⏭️ What's next
-We might introduce more domain options and free hosting in the future to help as many people as possible! 
-
-**We can’t wait to see what you build!**
-
----
-
-### 🚨 Abuse Reporting
-We take domain name abuse seriously and are committed to maintaining a safer and more open internet. Every report is carefully reviewed, and response times may vary from a few hours to several days, depending on the complexity of the case.
-
-Email: abusereport@digitalplat.org
-
----
-
-## 🧠 Story
-
-This started as a small DNS experiment when I was 15, letting a few friends use subdomains.
-
-Over time, it grew into something people actually rely on, and running it turned out to be much harder than building it.
-
-I wrote a bit about how it evolved here:  
-https://dev.to/edwardhsing/i-bought-a-domain-at-15-now-it-powers-400000-users-7ol
+</body>
+</html>
